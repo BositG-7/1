@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../uyishi"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Time"
+	}
+}
